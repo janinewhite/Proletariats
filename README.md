@@ -1,6 +1,8 @@
 # Proletariats
 
-## Quandle API Key
+Exploring real estate prices in Phoenix Arizona using Zillow market research data available at Quandl.
+
+## Quandl API Key
 Sign up for a Quandl account, then the API key will be available in your account settings: https://www.quandl.com/account/profile 
 
 ### Save API Key
