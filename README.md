@@ -1,5 +1,7 @@
 # Proletariats
 
+## Project Summary
+
 Exploring real estate prices in Phoenix Arizona using Zillow market research data available at Quandl.
 
 ## Quandl API Key
