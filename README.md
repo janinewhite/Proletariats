@@ -2,7 +2,6 @@
 
 ## Quandle API Key
 Sign up for a Quandl account, then the API key will be available in your account settings: https://www.quandl.com/account/profile 
-To use a Quandl API key:
 
 ### Save API Key
 import quandl
