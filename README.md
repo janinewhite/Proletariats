@@ -2,7 +2,7 @@
 
 ## Project Summary
 
-Exploring real estate prices in Phoenix Arizona using Zillow market research data available at Quandl.
+Exploring real estate prices in Phoenix, Arizona using Zillow research data available at Quandl and Consumer Price Index data from US Bureau of Labor Statistics.
 
 See Analysis of Phoenix AZ Real Estate Trends.pptx for detailed analysis.
 
