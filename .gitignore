@@ -104,3 +104,4 @@ venv.bak/
 .mypy_cache/
 
 config.py
+Create Quandl API Key file.ipynb
