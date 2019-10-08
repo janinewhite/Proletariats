@@ -103,6 +103,7 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+Zillow_Metadata.csv
 config.py
 Create Quandl API Key file.ipynb
 .gitignore
